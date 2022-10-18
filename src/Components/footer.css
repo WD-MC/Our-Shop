@@ -1,0 +1,6 @@
+@media screen  and (min-width: 500px) and (max-width: 1080px){
+
+    .section1 .so{
+        flex-direction: column;
+    }
+}

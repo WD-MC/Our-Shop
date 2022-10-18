@@ -1,0 +1,56 @@
+@media screen and (min-width: 500px) and (max-width: 650px){
+
+    .main .card .section{
+
+    }
+
+    .main .section h1{
+        font-size: 25px;
+    }
+
+    .main .section h4{
+        font-size: 15px;
+    }
+}
+@media screen and (min-width: 651px) and (max-width: 900px){
+
+    .main .card .section{
+        margin-top: 30px;
+    }
+    .main .section h1{
+        font-size: 30px;
+    }
+
+    .main .section h4{
+        font-size: 20px;
+    }
+}
+
+@media screen  and (min-width: 901px) and (max-width: 1200px){
+
+    .main .card .section{
+        margin-top: 40px;
+    }
+    .main .section h1{
+        font-size: 50px;
+    }
+
+    .main .section h4{
+        font-size: 30px;
+    }
+}
+
+@media screen  and (min-width: 1201px) and (max-width: 1600px){
+
+    .main .card .section{
+        margin-top: 120px;
+        margin-left: 60px;
+    }
+    .main .section h1{
+        font-size: 60px;
+    }
+
+    .main .section button{
+        margin-top: 60px;
+    }
+}
